@@ -1,15 +1,10 @@
-A simple implementation of autograd engine and neural net a library with implementation of 
+A simple implementation of autograd engine and neural net a library with implementation of
+
 1. Forward pass
 2. Backward pass
 3. Graphing function which shows flowing of gradient
 
 This library can be used to implement Multi Layer Perceptrons(MLPs)
-
----
-
-#### Might Do list
-
-- Implement a small neural net with the help of Micrograd with ReLu loss function 
 
 ---
 
